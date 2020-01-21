@@ -654,9 +654,6 @@
 	<spawn centerx="1492" centery="1503" centerz="7" radius="5">
 		<monster name="Hero" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="1447" centery="1504" centerz="7" radius="5">
-		<npc name="Nimral" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="1500" centery="1505" centerz="7" radius="5">
 		<monster name="Hero" x="2" y="0" z="7" spawntime="60" />
 		<monster name="Hero" x="3" y="3" z="7" spawntime="60" />
